@@ -16,28 +16,12 @@
 
 ---
 
-## 📋 Table of Contents
-- [About The Project](#-about-the-project)
-- [Key Features](#-key-features)
-- [Technology Stack](#-technology-stack)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Model Performance](#-model-performance)
-- [Dataset Information](#-dataset-information)
-- [Project Structure](#-project-structure)
-- [API Documentation](#-api-documentation)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
-
----
-
 ## 🎯 About The Project
 
 This project implements a **machine learning-based fraud detection system** for credit card transactions. The system uses advanced data science techniques to identify potentially fraudulent transactions in real-time, helping financial institutions minimize losses and protect customers.
 
 ### 🚀 **Live Demo**
-Experience the fraud detection system: **[Try Live Demo](https://your-deployed-app.herokuapp.com)** *(Deploy and update this link)*
+Experience the fraud detection system: **[Try Live Demo](https://web-production-f8cfb.up.railway.app/)**
  
 ---
 
