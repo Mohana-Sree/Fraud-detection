@@ -78,6 +78,7 @@ logs/*.manifest
 
 # Model cache (optional - you might want to include the trained model)# Unit test / coverage reports
 
+# Model cache (including trained model for deployment)
 # model/*.pklhtmlcov/
 
 .tox/
